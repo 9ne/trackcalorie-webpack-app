@@ -1,1 +1,1 @@
-# Trackcalorie web application OOP in js, refactored using WEBPACK
+# Users can easily add, edit, or delete meals, with real-time updates reflecting their calorie progress. The app is designed to be lightweight and fast, ensuring a smooth experience without unnecessary complexity. With its modular OOP structure, TrackCalorie is easy to maintain and expand with new features. Whether for weight management or general health tracking, it provides a hassle-free solution for monitoring daily nutrition.
